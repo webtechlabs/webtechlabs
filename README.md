@@ -1,9 +1,7 @@
-# 💫 About Me:
+# 🤓 About Me:
 I'm currently working on a marketing and web presence platform for small business owners and independent freelancers.
 
-# 💻 Tech Stack:
-
-## Core Competency
+# 💻 Core Competency
 ![Almalinxus](https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=AlmaLinux&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -24,7 +22,7 @@ I'm currently working on a marketing and web presence platform for small busines
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
-## Getting Better at
+# 📚 Getting Better at
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -46,7 +44,7 @@ I'm currently working on a marketing and web presence platform for small busines
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WebTechLabs&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WebTechLabs&theme=vision-friendly-dark&hide_border=false)<br/>
@@ -54,4 +52,5 @@ I'm currently working on a marketing and web presence platform for small busines
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
