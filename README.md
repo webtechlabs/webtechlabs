@@ -5,7 +5,6 @@ I'm currently working on a marketing and web presence platform for small busines
 
 ## Core Competency
 ![Almalinxus](https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=AlmaLinux&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Centos](https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white)
@@ -15,7 +14,6 @@ I'm currently working on a marketing and web presence platform for small busines
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
