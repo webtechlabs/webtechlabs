@@ -5,7 +5,6 @@ I'm currently working on a marketing and web presence platform for small busines
 ![Almalinxus](https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=AlmaLinux&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Centos](https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white)
 ![CPanel](https://img.shields.io/badge/cPanel-FF6C2C.svg?style=for-the-badge&logo=cPanel&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +17,6 @@ I'm currently working on a marketing and web presence platform for small busines
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 # 📚 Getting Better at
@@ -45,6 +43,7 @@ I'm currently working on a marketing and web presence platform for small busines
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 //-->
 <!--
 # 📊 GitHub Stats:
